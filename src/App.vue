@@ -1,6 +1,7 @@
 <template>
   <div>
-    jfpewjp
+    jfpewjp\
+    [kjf[goj]]
   </div>
   
 </template>
